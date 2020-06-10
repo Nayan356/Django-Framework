@@ -1,0 +1,33 @@
+body{
+    background-color: violet;
+    background-image: url(/static/first_app/puppy.jpg);
+    background-repeat-y: no-repeat;
+    color: #fff;
+	text-align: center;
+	padding: 3rem;
+	font-size: 1.125rem;
+	line-height: 1.5;
+	transition: all 725ms ease-in-out;
+
+}
+
+body{
+font-family:Ubuntu;
+}
+
+h1{
+font-weight:normal;
+margin: 0
+}
+h2 {
+	font-size: 2rem;
+	font-weight: bolder;
+	margin-bottom: 1rem;
+}
+
+p {
+	margin-bottom: 1rem;
+	color: tomato;
+}
+
+
